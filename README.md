@@ -17,23 +17,24 @@ http://simplehtmldom.sourceforge.net/
 Installation
 ------------
 
-add to `composer.json`
-```json
-"require": {
-    "camilord/php-simple-html-dom-parser": "1.9.1"
-}
-```
-
-or cast a command:
+cast a command:
 ```bash
 php composer.phar require camilord/php-simple-html-dom-parser
 ```
 
+or add to `composer.json`
+```json
+"require": {
+    "camilord/php-simple-html-dom-parser": "^1.0"
+}
+```
+ 
+ 
 Usage
 -----
 
 ```php
-use camilord\HtmlDomParser;
+use camilord\PhpSimpleHtmlDomParser\HtmlDomParser;
 
 ...
 $dom = HtmlDomParser::str_get_html($str);

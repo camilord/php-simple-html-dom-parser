@@ -3,13 +3,9 @@
 
 Version 1.9.1
 
-Adaptation for Composer and PSR-0 of:
+Wrapper for `PHP Simple HTML DOM Parser` to work on `composer`
 
-A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way!
-Require PHP 5+.
-Supports invalid HTML.
-Find tags on an HTML page with selectors just like jQuery.
-Extract contents from HTML in a single line.
+A simple PHP HTML DOM parser written in PHP5+, supports invalid HTML, and provides a very easy way to find, extract and modify the HTML elements of the dom. jquery like syntax allow sophisticated finding methods for locating the elements you care about.
 
 http://simplehtmldom.sourceforge.net/
 

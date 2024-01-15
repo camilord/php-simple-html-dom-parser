@@ -2,7 +2,7 @@
     "name": "camilord/php-simple-html-dom-parser",
     "type": "library",
     "description": "Composer wrapper for PHP Simple HTML DOM Parser from sourceforge.net",    
-    "keywords": ["html", "dom", "parser"],
+    "keywords": ["html", "dom", "parser", "util", "utils"],
     "homepage": "https://github.com/camilord/php-simple-html-dom-parser",
     "license": "MIT",
     "authors": [
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "camilord\\PhpSimpleHtmlDomParser": "src/"
+            "camilord\\PhpSimpleHtmlDomParser\\": "src/"
         }
     }    
 }

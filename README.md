@@ -18,6 +18,10 @@ cast a command:
 ```bash
 php composer.phar require camilord/php-simple-html-dom-parser
 ```
+or 
+```bash
+composer require camilord/php-simple-html-dom-parser
+```
 
 or add to `composer.json`
 ```json

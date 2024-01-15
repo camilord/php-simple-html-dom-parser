@@ -14,13 +14,14 @@ Extract contents from HTML in a single line.
 http://simplehtmldom.sourceforge.net/
 
 
-Install
--------
+Installation
+------------
+
 add to `composer.json`
 ```json
 "require": {
     "camilord/php-simple-html-dom-parser": "1.9.1"
-    }
+}
 ```
 
 or cast a command:

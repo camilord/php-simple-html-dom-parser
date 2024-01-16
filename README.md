@@ -1,5 +1,5 @@
 # php-simple-html-dom-parser
-Wrapper Version: 1.0
+Wrapper Version: 1.x
 
 Wrapper for `PHP Simple HTML DOM Parser` to work on `composer`
 
